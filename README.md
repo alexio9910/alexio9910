@@ -1,16 +1,21 @@
 <div align="center">
   <h1>Hola, soy Alex Pajares Casén</h1>
-  <p><b>Systems Administrator | Cloud Native & Edge Computing | Telematics</b></p>
+  <p><b>Systems Administrator | Cloud Native & Edge Computing | Infrastructure as Code</b></p>
   <br>
 </div>
 
 ### 👨‍💻 Sobre mí
-Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) y futuro estudiante de Ingeniería de Telecomunicaciones (Especialidad en Telemática) en la UVa. Me especializo en la creación de infraestructuras robustas, automatizadas y seguras, aplicando principios de *Infrastructure as Code* (IaC) y orquestación en el Edge.
+Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) enfocado en la creación y administración de infraestructuras robustas, eficientes y seguras. Mi filosofía de trabajo se basa en la automatización, la observabilidad y el despliegue de arquitecturas reproducibles.
 
-* 🔭 Actualmente trabajando en automatización de procesos, despliegues con Docker y monitorización de sistemas empresariales en Nubecao Sistemas.
-* ⚙️ Construyendo arquitecturas de alta disponibilidad en hardware perimetral (Raspberry Pi 5 / NVMe) con K3s y Ansible.
-* 🔒 Implementando redes seguras: firewalls (UFW), VPNs y filtrado DNS a nivel de red (AdGuard Home / Pi-hole).
-* ⚡ Intereses: Lógica de servidores, telemetría con InfluxDB/Grafana y sistemas de alerta automatizados vía Telegram.
+* ⚙️ Especializado en despliegues con orquestadores de contenedores (Kubernetes/K3s) y herramientas de Infraestructura como Código (Ansible).
+* 🔒 Enfocado en el diseño de redes seguras, implementación de firewalls y monitorización activa.
+* ⚡ Intereses: Arquitecturas minimalistas, Edge Computing, automatización de servidores y lógica backend.
+
+### 🧠 Soft Skills & Competencias
+* **Resolución de problemas (Troubleshooting):** Enfoque analítico para diagnosticar, aislar y solucionar incidencias complejas en redes y servidores.
+* **Trabajo metódico e Ingeniería de Documentación:** Capacidad para documentar arquitecturas, crear procedimientos claros y mantener entornos ordenados para facilitar el trabajo en equipo.
+* **Adaptabilidad técnica:** Rápida asimilación de nuevas tecnologías Cloud Native, protocolos de red y metodologías DevOps.
+* **Visión de infraestructura:** Orientación integral hacia la alta disponibilidad, la eficiencia de recursos y la seguridad aplicada *by design* (desde la base del proyecto).
 
 ### 🛠️ Stack Técnico Principal
 <p>
