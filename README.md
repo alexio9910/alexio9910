@@ -24,6 +24,7 @@ Durante mi trayectoria, he desarrollado una base técnica sólida y versátil, a
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
   <img src="https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi 5" />
+  <img src="https://img.shields.io/badge/LDAP-103E5C?style=for-the-badge&logoColor=white" alt="LDAP" />
 </p>
 
 #### ☁️ Orquestación e Infraestructura como Código (IaC)
