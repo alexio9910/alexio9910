@@ -53,7 +53,6 @@ Durante mi trayectoria, he desarrollado una base técnica sólida y versátil, a
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
   <img src="https://img.shields.io/badge/Uptime_Kuma-1C1C1C?style=for-the-badge&logo=uptimekuma&logoColor=white" alt="Uptime Kuma" />
   <br>
   <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant" />
